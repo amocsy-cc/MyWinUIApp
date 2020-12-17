@@ -1,0 +1,3 @@
+namespace MyWinUIApp.Skia.Gtk
+{
+}
